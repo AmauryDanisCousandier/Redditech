@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "redditech",
+    "slug": "my.redditech",
+    "orientation": "portrait",
+    "icon": "./assets/app_icon.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+  "android": {
+    "package": "com.amaury.redditech",
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/app_icon.png",
+      "backgroundColor": "#FF5700"
+    }
+  },
+  "web": {
+    "favicon": "./assets/app_icon.png"
+  },
+  "scheme": "my.redditech"
+  }
+}
